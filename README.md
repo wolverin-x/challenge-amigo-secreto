@@ -1,6 +1,6 @@
 # Amigo Secreto 🎁
 
-**Amigo Secreto** es una aplicación desarrollada como parte del desafío de la formación para principiantes en programación **G8 ONE + AlURA LATAM**.  
+**Amigo Secreto** es una aplicación desarrollada como parte del desafío de la formación para principiantes en programación **G8 ONE + ALURA LATAM**.  
 El objetivo es permitir a los usuarios ingresar nombres de amigos en una lista y realizar un sorteo aleatorio para determinar quién será el "Amigo Secreto".
 
 
@@ -19,7 +19,7 @@ El objetivo es permitir a los usuarios ingresar nombres de amigos en una lista y
 ## 🚀 Prueba la aplicación
 
 Accede a la aplicación sin necesidad de descargar nada:  
-👉 **[Ir a la página de Amigo Secreto](https://lgarciabode.github.io/amigo-secreto/)**  
+👉 **[Ir a la página de Amigo Secreto](https://wolverin-x.github.io/challenge-amigo-secreto/)**  
 
 
 ### 🖼 Capturas de pantalla
@@ -56,8 +56,8 @@ Accede a la aplicación sin necesidad de descargar nada:
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/lgarciabode/amigo-secreto.git
-   cd amigo-secreto
+   git clone https://github.com/wolverine-x/challenge-amigo-secreto.git
+   cd challenge-amigo-secreto
 
 2. Abre el archivo index.html en tu navegador.
 
@@ -67,7 +67,7 @@ Navegador web actualizado (Google Chrome, Firefox, Edge, etc.).
 
 
 ## 👨‍💻 Autores
-- **[servytechmx  Lucia Garcia Bode](https://github.com/lgarciabode)** - Implementación de la lógica en JavaScript.  
+- **[Emiliano Davila Gonzalez](https://github.com/wolverine-x)** - Implementación de la lógica en JavaScript.  
 - **ALURA LATAM + ONE G8** - Provisión del diseño base en HTML y CSS.
 Proyecto desarrollado en el contexto del curso G8 ONE + ALURA LATAM.
 
