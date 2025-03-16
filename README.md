@@ -19,7 +19,7 @@ El objetivo es permitir a los usuarios ingresar nombres de amigos en una lista y
 ## 🚀 Prueba la aplicación
 
 Accede a la aplicación sin necesidad de descargar nada:  
-👉 **[Ir a la página de Amigo Secreto](https://wolverin-x.github.io/challenge-amigo-secreto/)**  
+👉 **[Ir a la página de Amigo Secreto](https://github.com/wolverin-x/challenge-amigo-secreto)**  
 
 
 ### 🖼 Capturas de pantalla
@@ -67,7 +67,7 @@ Navegador web actualizado (Google Chrome, Firefox, Edge, etc.).
 
 
 ## 👨‍💻 Autores
-- **[Emiliano Davila Gonzalez](https://github.com/wolverine-x)** - Implementación de la lógica en JavaScript.  
+- **[Emiliano Davila Gonzalez](https://github.com/wolverin-x)** - Implementación de la lógica en JavaScript.  
 - **ALURA LATAM + ONE G8** - Provisión del diseño base en HTML y CSS.
 Proyecto desarrollado en el contexto del curso G8 ONE + ALURA LATAM.
 
